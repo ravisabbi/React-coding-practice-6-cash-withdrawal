@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.denomination-btn {
+  font-family: 'Roboto';
+  font-size: 30px;
+  height: 50px;
+  color: #ffffff;
+  border: 2px solid #c4c4c4;
+  background-color: #382f5a;
+  width: 200px;
+  margin: 10px;
+}
